@@ -16,4 +16,5 @@ export class YTerServiceService {
      return this.yters;
 
    }
+   dataSource = this.getList;
 }

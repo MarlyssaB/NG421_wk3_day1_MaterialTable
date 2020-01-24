@@ -30,6 +30,12 @@ const YouTubers: IYTers[] = [
         type: "DTV Cartoon Reviews",
         subscribers: 110000,
         dateJoined: new Date("02/26/14")
+    },
+    {
+        name: "DefunctLand",
+        type: "Theme Park and Telvision History",
+        subscribers: 644000,
+        dateJoined: new Date("11/02/16")
     }
 ]
 export {YouTubers};
